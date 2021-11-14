@@ -59,9 +59,8 @@
 </br></br>
 </p>
 <h1>📈 Github Stats:</h1>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itayarcobi&theme=slateorange&layout=compact" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=itayarcobi&show_icons=true&theme=slateorange&layout=compact&line_height=20" />
-</a>
+<img align="left" alt="itayarcobi Github Status" src="https://github-readme-stats.vercel.app/api?username=itayarcobi&show_icons=true&theme=onedark">
+
+<img align="left" alt="itayarcobi Github Status" src="https://github-readme-stats.vercel.app/api/top-langs/?usernameitayarcobi&layout=compact&theme=onedark">
+
+
