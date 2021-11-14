@@ -61,6 +61,6 @@
 <h1>📈 Github Stats:</h1>
 <img align="left" alt="itayarcobi Github Status" src="https://github-readme-stats.vercel.app/api?username=itayarcobi&show_icons=true&theme=onedark">
 
-<img align="left" alt="itayarcobi Github Status" src="https://github-readme-stats.vercel.app/api/top-langs/?usernameitayarcobi&layout=compact&theme=onedark">
+<img align="left" alt="itayarcobi Github Status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itayarcobi&layout=compact&theme=onedark">
 
 
