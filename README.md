@@ -14,7 +14,7 @@
 
 <h3> 📫 Contact Me:</h3>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=http://www.linkedin.com/in/itayarcobi/)](http://www.linkedin.com/in/itayarcobi)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/itay-arcobi-5773a1219/)](http://www.linkedin.com/in/itayarcobi)
 [![Gmail Badge](https://img.shields.io/badge/-arcobiitay@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arcobiitay@gmail.com)](mailto:arcobiitay@gmail.com)
 <a href="https://www.facebook.com/itayarcobi/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" height="20"/></a>
 <a href="https://www.hackerrank.com/arcobiitay"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="hackerrank" height="20"/></a>
